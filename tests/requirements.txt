@@ -1,0 +1,11 @@
+# Ensemble de packages pour couvrir tous les cas de tests
+# pytest framework makes it easy to write small tests
+pytest
+# coverage measures code coverage
+coverage
+# capturer makes it easy to capture the stdout and stderr streams of the current process and subprocesses
+capturer
+# cement is an advanced Application Framework for Python, with a primary focus on Command Line Interfaces 
+cement
+# mock allows you to replace parts of your system under test with mock objects and make assertions about how they have been used
+mock

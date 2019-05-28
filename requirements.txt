@@ -1,0 +1,11 @@
+# Contient les packages pour que le python soit opérationnel avec le settings.json
+# A formatter for Python code
+yapf
+# Python code static checker
+pylint
+# simple powerful testing with Python
+pytest
+# plugin for pytest to produces coverage reports
+pytest-cov
+# Ajouter ci-dessous vos packages
+# ...

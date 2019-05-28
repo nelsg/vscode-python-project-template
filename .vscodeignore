@@ -1,0 +1,13 @@
+.vscode/**
+.vscode-test/**
+out/test/**
+out/example/**
+test/**
+src/**
+**/*.map
+.gitignore
+tsconfig.json
+.travis.yml
+appveyor.yml
+example/**
+.vscodeignore

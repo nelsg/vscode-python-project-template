@@ -3,11 +3,12 @@
 
     "python.sortImports.args": ["-rc", "--atomic"],
 
-    "python.formatting.provider": "yapf",
-    "python.formatting.yapfPath": "${workspaceFolder}/.venv/bin/yapf",
-    "python.formatting.yapfArgs": [
-        "--style",
-        "{based_on_style: chromium, indent_width: 20}"
+    "python.formatting.provider": "autopep8",
+    "python.formatting.autopep8Path": "${workspaceFolder}/.venv/bin/autopep8",
+    "python.formatting.autopep8Args": [
+        "--max-line-length",
+        "120",
+        "--experimental"
     ],
 
     "editor.formatOnPaste": false,
@@ -18,6 +19,7 @@
     "python.linting.ignorePatterns": [".vscode/*.py", "**/site-packages/**/*.py"],
     "python.linting.pylintEnabled": true,
     "python.linting.pylintPath": "${workspaceFolder}/.venv/bin/pylint",
+    "python.linting.mypyEnabled": true,
 
     "python.testing.unittestEnabled": false,
     "python.testing.nosetestsEnabled": false,

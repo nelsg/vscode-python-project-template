@@ -1,11 +1,15 @@
 # ./vscode/settings.json use binaries that must be installed with this requirements : `pip install -r requirements.txt`
 # A formatter for Python code
-yapf
+pep8==1.4.4
+autopep8==1.4.4
 # Python code static checker
-pylint
+pylint==2.3.1
 # simple powerful testing with Python
-pytest
+pytest==4.5.0
 # plugin for pytest to produces coverage reports
-pytest-cov
-# Ajouter ci-dessous vos packages
+pytest-cov==2.7.1
+# Type safety
+mypy==0.701
+flake8-mypy==17.8.0
+# Add your packages
 # ...

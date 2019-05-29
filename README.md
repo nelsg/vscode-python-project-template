@@ -13,7 +13,7 @@ Template for my python (version 3) projects with vscode
 
 ## Tools choices
 
-* Format python code with **yapf**. Others here : https://code.visualstudio.com/docs/python/editing#_formatting
+* Format python code with **autopep8**. Others here : https://code.visualstudio.com/docs/python/editing#_formatting
 * Static analysis with **pylint**. Others here : https://code.visualstudio.com/docs/python/linting
 * Unitary tests with **pytest**. Others here : https://code.visualstudio.com/docs/python/unit-testing
 
@@ -43,3 +43,7 @@ Usefull extensions :
     * Launching task
     * Launching configurations
     * Debugging with a breakpoint
+
+## Sources
+
+* https://github.com/dwd-umd/python-project-template

@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 
-
 # Commentaires avec l'extention "Better Comments"
 # * Commentaire en gras
 # TODO : a faire

@@ -1,4 +1,4 @@
-# Contient les packages pour que le python soit opérationnel avec le settings.json
+# ./vscode/settings.json use binaries that must be installed with this requirements : `pip install -r requirements.txt`
 # A formatter for Python code
 yapf
 # Python code static checker

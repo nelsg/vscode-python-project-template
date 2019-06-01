@@ -31,6 +31,8 @@ Usefull extensions :
 * Trailing Spaces (<https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces)>
 * Rainbow Brackets (<https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets)>
 * Git Lens (<https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)>
+* EditorConfig (<https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig>)
+* Git Project Manager (<https://marketplace.visualstudio.com/items?itemName=felipecaputo.git-project-manager>)
 
 ## Tasks
 
